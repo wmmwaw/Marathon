@@ -12,6 +12,7 @@ namespace Marathon
 {
     public partial class MenuRegRunners : Form
     {
+        //menu
         public MenuRegRunners()
         {
             InitializeComponent();
